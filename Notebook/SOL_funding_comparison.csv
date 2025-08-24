@@ -1,0 +1,11 @@
+exchange_id,symbol,funding_rate,open_interest_usd
+binance_futures,SOLUSD_PERP,0.01,195949080.0
+binance_futures,SOLUSDC,0.01,112639860.7295886
+binance_futures,SOLUSDT,0.01,2291499209.401948
+bybit,SOLUSD,0.01,56380686.0
+bybit,SOLPERP,0.01,15330847.39
+bybit,SOLUSDT,0.01,1573076027.224799
+bitget_futures,SOLPERP_CMCBL,0.01,0.0
+bitget_futures,SOLUSD_DMCBL,0.01,209645474.37649998
+bitget_futures,SOLUSDT_UMCBL,0.012,1367449518.6211832
+coinw_futures,SOL/USDT,0.01,667936712.2972

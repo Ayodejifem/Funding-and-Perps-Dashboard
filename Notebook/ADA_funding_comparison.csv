@@ -1,0 +1,10 @@
+exchange_id,symbol,funding_rate,open_interest_usd
+binance_futures,ADAUSD_PERP,0.01,46369240.0
+binance_futures,ADAUSDC,0.008,8845015.539077718
+binance_futures,ADAUSDT,0.01,288825870.6069312
+bybit,ADAUSD,0.01,26524076.0
+bybit,ADAUSDT,0.01,264702113.8931
+bitget_futures,ADAPERP_CMCBL,0.005,0.0
+bitget_futures,ADAUSD_DMCBL,0.05,48873460.9977
+bitget_futures,ADAUSDT_UMCBL,0.01,309773404.5711757
+coinw_futures,ADA/USDT,0.01,73370281.8524
